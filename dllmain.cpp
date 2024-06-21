@@ -7,7 +7,6 @@
 #include "string"
 #include <direct.h>
 #include <ctime>
-bool onlyone = false;
 #include "MinHook.h"
 #pragma comment(lib, "libMinHook.x86.lib")
 
@@ -21,6 +20,7 @@ bool __fastcall SendPacket(void* ECX, void* EDX, unsigned char ucPacketID, void*
 //...
 }
 
+static bool onlyone = false;
 //...
 
 int __stdcall DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserved)
