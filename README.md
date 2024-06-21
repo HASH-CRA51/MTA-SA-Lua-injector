@@ -1,4 +1,4 @@
 # MTA-SA-Lua-injector
 MTA:SA Lua injector
 ## KONIGSRASSE SUNAR ##
-## TUM MTA ALEMINE SELAMLAR ##
+## THE UNDEFEATED TEAM ##
