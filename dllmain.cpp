@@ -5,8 +5,6 @@
 #include <Windows.h>
 #include "sigscan.h"
 #include "string"
-#include <direct.h>
-#include <ctime>
 #include "MinHook.h"
 #pragma comment(lib, "libMinHook.x86.lib")
 
